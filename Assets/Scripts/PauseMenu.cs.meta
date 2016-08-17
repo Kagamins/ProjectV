@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 28c2f32413b84154d831de421ce94134
+timeCreated: 1459803003
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - PlayerUI: {fileID: 11400000, guid: 72b3c349baad1a94b82db3105ce2b6b1, type: 2}
+  - cursorTexture: {fileID: 2800000, guid: 129867e21a15f0144a651c3e6355e38f, type: 3}
+  - ADB: {fileID: 11400000, guid: 1de7db0133a994742b759f7d5e00eb5a, type: 2}
+  - WDB: {fileID: 11400000, guid: baee5c7400a5a9d4b85175028151edcb, type: 2}
+  - PDB: {fileID: 11400000, guid: 49ea1756c5064624f9eb163e844b5311, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

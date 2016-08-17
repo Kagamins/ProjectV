@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7ca3ffdd1da920544abce83061599706
+timeCreated: 1452696705
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Warrior: {fileID: 133222, guid: 3219e2d666736da4282d47102227e2da, type: 2}
+  - Mage: {fileID: 133222, guid: 3219e2d666736da4282d47102227e2da, type: 2}
+  - Ranger: {fileID: 133222, guid: 3219e2d666736da4282d47102227e2da, type: 2}
+  - Brawler: {fileID: 133222, guid: 3219e2d666736da4282d47102227e2da, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

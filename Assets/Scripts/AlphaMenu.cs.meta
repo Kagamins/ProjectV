@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 963225ac530af0b499285d86ffff7ce1
+timeCreated: 1463498183
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - StyleTest: {fileID: 11400000, guid: 778880d672949dd4d9ff08a25d860d28, type: 2}
+  - WDB: {fileID: 11400000, guid: baee5c7400a5a9d4b85175028151edcb, type: 2}
+  - ADB: {fileID: 11400000, guid: 1de7db0133a994742b759f7d5e00eb5a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
