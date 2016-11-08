@@ -2,6 +2,7 @@
 *.blend
 *.png
 *.asset
+*.prefab
 Library/
 Temp/
 ProjectSettings/
