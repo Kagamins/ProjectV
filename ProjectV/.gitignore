@@ -1,0 +1,8 @@
+*.meta
+*.blend
+*.png
+*.asset
+Library/
+Temp/
+ProjectSettings/
+Obj/

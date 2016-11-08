@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: e9b4090443803a048bd23e124f3cde68
+timeCreated: 1452634812
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Body
+    100004: //RootNode
+    100006: ForeArm_L
+    100008: ForeArm_R
+    100010: Head
+    100012: LowerJaw
+    100014: Neck
+    100016: Paw_L
+    100018: Paw_R
+    100020: Stomache
+    100022: Tail
+    100024: Torso
+    100026: UpperArm_L
+    100028: UpperArm_R
+    100030: UpperJaw1
+    100032: UpperJaw2
+    100034: Wrath-Mob-Body
+    100036: Wrath-Mob-Head
+    100038: Body_001
+    100040: Body_002
+    100042: Body_003
+    100044: Body_004
+    100046: Body_005
+    400000: Armature
+    400002: Body
+    400004: //RootNode
+    400006: ForeArm_L
+    400008: ForeArm_R
+    400010: Head
+    400012: LowerJaw
+    400014: Neck
+    400016: Paw_L
+    400018: Paw_R
+    400020: Stomache
+    400022: Tail
+    400024: Torso
+    400026: UpperArm_L
+    400028: UpperArm_R
+    400030: UpperJaw1
+    400032: UpperJaw2
+    400034: Wrath-Mob-Body
+    400036: Wrath-Mob-Head
+    400038: Body_001
+    400040: Body_002
+    400042: Body_003
+    400044: Body_004
+    400046: Body_005
+    4300000: Wrath-Mob-Body
+    4300002: Wrath-Mob-Head
+    7400000: Default Take
+    7400002: ArmatureAction
+    7400004: Leap
+    7400006: Idle
+    9500000: //RootNode
+    13700000: Wrath-Mob-Body
+    13700002: Wrath-Mob-Head
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 249
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Body
+        weight: 1
+      - path: Armature/Body/Stomache
+        weight: 1
+      - path: Armature/Body/Stomache/Tail
+        weight: 1
+      - path: Armature/Neck
+        weight: 1
+      - path: Armature/Neck/Head
+        weight: 1
+      - path: Armature/Neck/LowerJaw
+        weight: 1
+      - path: Armature/Neck/UpperJaw1
+        weight: 1
+      - path: Armature/Neck/UpperJaw1/UpperJaw2
+        weight: 1
+      - path: Armature/Torso
+        weight: 1
+      - path: Armature/Torso/UpperArm_L
+        weight: 1
+      - path: Armature/Torso/UpperArm_L/ForeArm_L
+        weight: 1
+      - path: Armature/Torso/UpperArm_L/ForeArm_L/Paw_L
+        weight: 1
+      - path: Armature/Torso/UpperArm_R
+        weight: 1
+      - path: Armature/Torso/UpperArm_R/ForeArm_R
+        weight: 1
+      - path: Armature/Torso/UpperArm_R/ForeArm_R/Paw_R
+        weight: 1
+      - path: Wrath-Mob-Body
+        weight: 1
+      - path: Wrath-Mob-Head
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ArmatureAction
+      takeName: ArmatureAction
+      firstFrame: 9
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Body
+        weight: 1
+      - path: Armature/Body/Stomache
+        weight: 1
+      - path: Armature/Body/Stomache/Tail
+        weight: 1
+      - path: Armature/Neck
+        weight: 1
+      - path: Armature/Neck/Head
+        weight: 1
+      - path: Armature/Neck/LowerJaw
+        weight: 1
+      - path: Armature/Neck/UpperJaw1
+        weight: 1
+      - path: Armature/Neck/UpperJaw1/UpperJaw2
+        weight: 1
+      - path: Armature/Torso
+        weight: 1
+      - path: Armature/Torso/UpperArm_L
+        weight: 1
+      - path: Armature/Torso/UpperArm_L/ForeArm_L
+        weight: 1
+      - path: Armature/Torso/UpperArm_L/ForeArm_L/Paw_L
+        weight: 1
+      - path: Armature/Torso/UpperArm_R
+        weight: 1
+      - path: Armature/Torso/UpperArm_R/ForeArm_R
+        weight: 1
+      - path: Armature/Torso/UpperArm_R/ForeArm_R/Paw_R
+        weight: 1
+      - path: Wrath-Mob-Body
+        weight: 1
+      - path: Wrath-Mob-Head
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Leap
+      takeName: ArmatureAction
+      firstFrame: 9
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Body
+        weight: 1
+      - path: Armature/Body/Stomache
+        weight: 1
+      - path: Armature/Body/Stomache/Tail
+        weight: 1
+      - path: Armature/Neck
+        weight: 1
+      - path: Armature/Neck/Head
+        weight: 1
+      - path: Armature/Neck/LowerJaw
+        weight: 1
+      - path: Armature/Neck/UpperJaw1
+        weight: 1
+      - path: Armature/Neck/UpperJaw1/UpperJaw2
+        weight: 1
+      - path: Armature/Torso
+        weight: 1
+      - path: Armature/Torso/UpperArm_L
+        weight: 1
+      - path: Armature/Torso/UpperArm_L/ForeArm_L
+        weight: 1
+      - path: Armature/Torso/UpperArm_L/ForeArm_L/Paw_L
+        weight: 1
+      - path: Armature/Torso/UpperArm_R
+        weight: 1
+      - path: Armature/Torso/UpperArm_R/ForeArm_R
+        weight: 1
+      - path: Armature/Torso/UpperArm_R/ForeArm_R/Paw_R
+        weight: 1
+      - path: Wrath-Mob-Body
+        weight: 1
+      - path: Wrath-Mob-Head
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: ArmatureAction
+      firstFrame: 20
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Body
+        weight: 1
+      - path: Armature/Body/Stomache
+        weight: 1
+      - path: Armature/Body/Stomache/Tail
+        weight: 1
+      - path: Armature/Neck
+        weight: 1
+      - path: Armature/Neck/Head
+        weight: 1
+      - path: Armature/Neck/LowerJaw
+        weight: 1
+      - path: Armature/Neck/UpperJaw1
+        weight: 1
+      - path: Armature/Neck/UpperJaw1/UpperJaw2
+        weight: 1
+      - path: Armature/Torso
+        weight: 1
+      - path: Armature/Torso/UpperArm_L
+        weight: 1
+      - path: Armature/Torso/UpperArm_L/ForeArm_L
+        weight: 1
+      - path: Armature/Torso/UpperArm_L/ForeArm_L/Paw_L
+        weight: 1
+      - path: Armature/Torso/UpperArm_R
+        weight: 1
+      - path: Armature/Torso/UpperArm_R/ForeArm_R
+        weight: 1
+      - path: Armature/Torso/UpperArm_R/ForeArm_R/Paw_R
+        weight: 1
+      - path: Wrath-Mob-Body
+        weight: 1
+      - path: Wrath-Mob-Head
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.3
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/SchoolLevel.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 8cfb1fac23fc5544587c5d85a83af90c
+timeCreated: 1451345677
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: MainPlatform
+    100002: MainPlatform.000
+    100004: MainPlatform.001
+    100006: MainPlatform.002
+    100008: MainPlatform.003
+    100010: //RootNode
+    100012: School
+    100014: SchoolDoorL
+    100016: SchoolDoorR
+    100018: clubrooms
+    100020: Debriefing S
+    100022: SchoolDorms
+    100024: Schoolground
+    100026: SchoolRoof
+    100028: Schoolroofdo
+    100030: schoolStadiu
+    400000: MainPlatform
+    400002: MainPlatform.000
+    400004: MainPlatform.001
+    400006: MainPlatform.002
+    400008: MainPlatform.003
+    400010: //RootNode
+    400012: School
+    400014: SchoolDoorL
+    400016: SchoolDoorR
+    400018: clubrooms
+    400020: Debriefing S
+    400022: SchoolDorms
+    400024: Schoolground
+    400026: SchoolRoof
+    400028: Schoolroofdo
+    400030: schoolStadiu
+    2300000: MainPlatform
+    2300002: MainPlatform.000
+    2300004: MainPlatform.001
+    2300006: MainPlatform.002
+    2300008: MainPlatform.003
+    2300010: School
+    2300012: SchoolDoorL
+    2300014: SchoolDoorR
+    2300016: clubrooms
+    2300018: Debriefing S
+    2300020: SchoolDorms
+    2300022: Schoolground
+    2300024: SchoolRoof
+    2300026: Schoolroofdo
+    2300028: schoolStadiu
+    3300000: MainPlatform
+    3300002: MainPlatform.000
+    3300004: MainPlatform.001
+    3300006: MainPlatform.002
+    3300008: MainPlatform.003
+    3300010: School
+    3300012: SchoolDoorL
+    3300014: SchoolDoorR
+    3300016: clubrooms
+    3300018: Debriefing S
+    3300020: SchoolDorms
+    3300022: Schoolground
+    3300024: SchoolRoof
+    3300026: Schoolroofdo
+    3300028: schoolStadiu
+    4300000: MainPlatform
+    4300002: MainPlatform.000
+    4300004: MainPlatform.001
+    4300006: MainPlatform.002
+    4300008: SchoolDoorR
+    4300010: SchoolDoorL
+    4300012: School
+    4300014: MainPlatform.003
+    4300016: SchoolRoof
+    4300018: Schoolroofdo
+    4300020: schoolStadiu
+    4300022: clubrooms
+    4300024: SchoolDorms
+    4300026: Debriefing S
+    4300028: Schoolground
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

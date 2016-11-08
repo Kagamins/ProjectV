@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 5ac0d6b6d7372cf49a6cfdc55d2cf0eb
+timeCreated: 1459106977
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Icon: {instanceID: 0}
+  - bBullet: {instanceID: 0}
+  - Bspawn1: {instanceID: 0}
+  - Bspawn2: {instanceID: 0}
+  - WeaponspawnR: {instanceID: 0}
+  - WeaponSpawnL: {instanceID: 0}
+  - WeaponR: {instanceID: 0}
+  - WeaponL: {instanceID: 0}
+  - Bflame: {instanceID: 0}
+  - Bfspawn: {instanceID: 0}
+  - AuraSpawn: {instanceID: 0}
+  - HAura: {instanceID: 0}
+  - AtkAura: {instanceID: 0}
+  - RespawnPoint: {instanceID: 0}
+  - playerobject: {instanceID: 0}
+  - cursorTexture: {fileID: 2800000, guid: 129867e21a15f0144a651c3e6355e38f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
